@@ -1,5 +1,3 @@
----
-
 # 3. End-to-End MLOps Production Architecture (`README_end_to_end.md`)
 
 ```markdown
